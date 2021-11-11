@@ -2,7 +2,7 @@
 IT5007 tut5
 The following is the operation to use website:
 
-mkdir -p/data/db
+mkdir -p /data/db
 
 screen mongod
 
